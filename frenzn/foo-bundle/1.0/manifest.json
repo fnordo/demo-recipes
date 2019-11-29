@@ -3,7 +3,8 @@
     "Frenzn\\FooBundle\\FrenznFooBundle": ["all"]
   },
   "copy-from-recipe": {
-    "config/": "%CONFIG_DIR%/"
+    "config/": "%CONFIG_DIR%/",
+    "src/Entity": "%SRC_DIR%/Entity"
   },
   "aliases": ["frenzn-foo", "foo"]
 }
