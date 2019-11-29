@@ -27,11 +27,10 @@ class Figure extends BaseFigure
      *
      * @return Figure
      */
-    public function setShortDescription($shortDescription): sring
+    public function setShortDescription($shortDescription): string
     {
         $this->shortDescription = $shortDescription;
         
         return $this;
     }
-    
 }
