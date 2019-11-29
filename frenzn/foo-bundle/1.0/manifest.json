@@ -4,7 +4,7 @@
   },
   "copy-from-recipe": {
     "config/": "%CONFIG_DIR%/",
-    "src/Entity": "%SRC_DIR%/Entity"
+    "src": "%SRC_DIR%/"
   },
   "aliases": ["frenzn-foo", "foo"]
 }
