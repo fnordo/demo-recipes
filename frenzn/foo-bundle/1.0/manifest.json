@@ -1,0 +1,9 @@
+{
+  "bundles": {
+    "Frenzn\\FooBundle\\FrenznFooBundle": ["all"]
+  },
+  "copy-from-recipe": {
+    "config/": "%CONFIG_DIR%/"
+  },
+  "aliases": ["frenzn-foo", "foo"]
+}
